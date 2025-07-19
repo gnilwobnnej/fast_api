@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Clock Tower 3",
+    "genre": "Horror",
+    "platform": "PS2",
+    "id": 2
+  },
+  {
+    "title": ".hack//INFECTION",
+    "genre": "RPG",
+    "platform": "PS2",
+    "id": 4
+  },
+  {
+    "title": ".hack//MUTATION",
+    "genre": "RPG",
+    "platform": "PS2",
+    "id": 5
+  }
+]
