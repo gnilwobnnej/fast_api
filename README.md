@@ -87,31 +87,31 @@ Shows a successful `curl` request to the `/videogames/` endpoint, returning all 
 
 Demonstrates a `SELECT * FROM videogames;` query in a PostgreSQL client, displaying the current videogames table contents.
 
-![PostgreSQL SELECT * from videogames result](./screenshots/2.png)
+![PostgreSQL SELECT * from videogames result](/Screenshots/2.png)
 
 ### 3. Using the Swagger UI to add a videogame
 
 Shows the FastAPI interactive docs (`/docs`) with a POST request to add a new videogame using the Swagger UI interface.
 
-![Swagger UI POST /videogames/ example](./screenshots/3.png)
+![Swagger UI POST /videogames/ example](/Screenshots/3.png)
 
 ### 4. Updated database after adding games
 
 Displays the updated videogames table in the database after adding new entries via the API.
 
-![PostgreSQL table after adding games](./screenshots/4.png)
+![PostgreSQL table after adding games](/Screenshots/4.png)
 
 ### 5. Pretty-printed JSON response
 
 Shows the pretty-printed JSON output of the `/videogames/` GET endpoint, listing all videogames.
 
-![Pretty-printed JSON response](./screenshots/5.png)
+![Pretty-printed JSON response](/Screenshots/5.png)
 
 ### 6. Swagger UI GET /videogames/ response
 
 Displays the Swagger UI showing a successful GET request to `/videogames/`, with the response body and headers.
 
-![Swagger UI GET /videogames/ response](./screenshots/6.png)
+![Swagger UI GET /videogames/ response](/Screenshots/6.png)
 
 
 ## Interactive API Docs
