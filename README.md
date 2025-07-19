@@ -53,10 +53,7 @@ A simple RESTful API for managing a videogames collection, built with FastAPI, S
      ```
      postgresql://<username>:<password>@localhost:<port>/<database>
      ```
-   - Example in this project:
-     ```
-     postgresql://postgres:Jetgrind0!@localhost:5433/videogames
-     ```
+Uses a .env file to have the URL and not stored on the repo
 
 4. **Create the database and tables**
 
