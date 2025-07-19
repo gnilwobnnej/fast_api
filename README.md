@@ -81,7 +81,7 @@ A simple RESTful API for managing a videogames collection, built with FastAPI, S
 
 Shows a successful `curl` request to the `/videogames/` endpoint, returning all videogames in JSON format.
 
-![curl output showing videogames JSON response](./screenshots/1.png)
+![curl output showing videogames JSON response](/Screenshots/1.png)
 
 ### 2. Viewing the database with SQL
 
